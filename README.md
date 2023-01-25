@@ -10,8 +10,13 @@
     and notice the difference in results.
     *Methodes:*
             - **Normal** - Perform a direct similarity check 
-            - **Stop words** - Perform the similarity check after we remove all stop words (assume stop words have less relevance)
-            - **Restrictive** - Perform the similarity check using only 'NOUN', 'PROPN' (assume the most relevant words are 'NOUN', 'PROPN')
+            
+            - **Stop words** - Perform the similarity check after we remove all stop words 
+            (assume stop words have less relevance)
+            
+            - **Restrictive** - Perform the similarity check using only 'NOUN', 'PROPN' 
+            (assume the most relevant words are 'NOUN', 'PROPN')
+            
             - **All** - Use all three above and the result will be an average of all individual scores
     
 
