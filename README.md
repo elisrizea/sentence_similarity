@@ -4,7 +4,7 @@
     
 
 # **Description:**
-    *This program is a demo of spaCy capabilities to find similarity between sentences.*
+    This program is a demo of spaCy capabilities to find similarity between sentences.
     It has a prebuilt already seen movie description which it is comparing with 
     other movies description supplied from the movies.txt User is asked to choose
     one from the 4 methods used to achive this and notice the difference in results.
