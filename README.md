@@ -17,7 +17,7 @@
             - **Restrictive** - Perform the similarity check using only 'NOUN', 'PROPN' 
             (assume the most relevant words are 'NOUN', 'PROPN')
             
-            - **All** - Use all 3 above and the result will be an average of all individual scores
+            - **All** - Use all 3 above, and the result will be an average of all individual scores
     
 
 # **Require:**
